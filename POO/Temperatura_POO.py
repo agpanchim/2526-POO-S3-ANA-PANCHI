@@ -2,9 +2,9 @@
 # Paradigma: Programación Orientada a Objetos
 # Autor: Ana Gissela Panchi Mallitasig
 # Descripción:
-#   Contiene la clase Clima que maneja las temperaturas
+#   Contiene la clase Temperatura_POO que maneja las temperaturas
 #   semanales y calcula el promedio.
-# Clase que maneja el clima semanal
+# Clase que maneja Temperatura_POO semanal
 
 class Temperatura_POO:
     def __init__(self):
